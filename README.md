@@ -33,7 +33,7 @@
   
 ## 💼 Projects
 ### 🔹 NeuroEdge-Mesh-Network
-[NeuroEdge-Mesh-Network]([URL](https://github.com/piyapank-creator/NeuroEdge-Mesh-Network-Architecture-Specification_v1))
+[NeuroEdge-Mesh-Network](https://github.com/piyapank-creator/NeuroEdge-Mesh-Network-Architecture-Specification_v1)
 
   ---
 
@@ -41,7 +41,9 @@
 <img width="1029" height="702" alt="image" src="https://github.com/user-attachments/assets/2c1f70e3-5ae4-4c33-b294-72dc0eeba526" />
 <img width="1027" height="701" alt="image" src="https://github.com/user-attachments/assets/7f95b9ff-ec57-40c3-b90b-4231c16f5136" />
 <img width="375" height="267" alt="image" src="https://github.com/user-attachments/assets/0baea621-5d5a-473d-97a2-3a9a875f2137" />
+<img width="380" height="268" alt="image" src="https://github.com/user-attachments/assets/13b0636c-5380-4116-a5c1-c1971f788a53" />
 
+  ---
 
 ## 🧠 Skills
 - Programming: Java, Python, SQL  
